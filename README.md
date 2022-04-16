@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexGreatDev
 - 👀 I’m interested in Develop|Crypto
 - 🌱 I’m currently learning BlockChain
-- 💞️ I’m looking to collaborate on  .Net Develop|Microservice|Crypto 
+- 💞️ I’m looking to collaborate on  Software Developer (.net)|Microservices 
 - 📫 How to reach me AlexanderGreatDev@gmail.com
 
 <!---
