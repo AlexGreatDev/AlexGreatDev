@@ -1,9 +1,9 @@
-👋 Hi, I’m @AlexGreatDev
+- 👋 Hi, I’m @AlexGreatDev
 
-👀 I’m interested in: Software Development, Blockchain, and Cryptocurrencies.
-🌱 I’m currently working on: Blockchain projects and decentralized applications.
-💞️ I’m looking to collaborate on: .NET development, microservices architecture, and blockchain solutions.
-📫 How to reach me: AlexanderGreatDev@gmail.com
+- 👀 I’m interested in: Software Development, Blockchain, and Cryptocurrencies.
+- 🌱 I’m currently working on: Blockchain projects and decentralized applications.
+- 💞️ I’m looking to collaborate on: .NET development, microservices architecture, and blockchain solutions.
+- 📫 How to reach me: AlexanderGreatDev@gmail.com
 
 <!---
 AlexGreatDev/AlexGreatDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
